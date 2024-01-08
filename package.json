@@ -1,0 +1,8 @@
+{
+  "name": "com.kidonaru.majiang-core-unity",
+  "displayName": "Majiang Core",
+  "version": "1.1.2-preview",
+  "description": "It provides basic class groups that include operations of hand tiles, calculation of Shanten number and winning points, management of round progression and table information, and a template for thinking routines.",
+  "documentationUrl": "https://github.com/kobalab/majiang-core",
+  "dependencies": {}
+}
